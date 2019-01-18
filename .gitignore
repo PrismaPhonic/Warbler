@@ -1,0 +1,6 @@
+venv/
+__pycache__
+secrets.py
+start.sh
+.vscode
+*.DS_Store*
